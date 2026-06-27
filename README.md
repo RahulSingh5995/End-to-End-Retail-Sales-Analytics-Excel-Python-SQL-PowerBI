@@ -1,6 +1,3 @@
-# Data-Analyst-Project-using-Excel-Python-SQL-Power-BI
-
-
 # 📊 Retail Sales Analytics | End-to-End ETL Pipeline
 
 ## 📌 Project Overview
