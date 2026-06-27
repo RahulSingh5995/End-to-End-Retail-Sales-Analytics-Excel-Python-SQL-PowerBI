@@ -162,7 +162,7 @@ Built an interactive dashboard including:
 
 # 📈 Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1472" height="905" alt="image" src="https://github.com/user-attachments/assets/2d1477ab-6604-4305-86f8-a77213c0d87e" />
 
 ```markdown
 ![Dashboard](images/dashboard.png)
@@ -193,15 +193,6 @@ Through this project I learned:
 - Building Interactive Dashboards
 
 ---
-
-# 🔮 Future Improvements
-
-- Add SQL analytical queries
-- Create Star Schema
-- Improve dashboard design
-- Add DAX Measures
-- Deploy using Power BI Service
-- Automate ETL process
 
 ---
 
